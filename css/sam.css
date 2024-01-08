@@ -1,0 +1,9 @@
+body{
+    direction: rtl;
+}
+#accordionSidebar{
+    padding-right: 0px;
+}
+#accordionSidebar > li{
+    font-size: 20px;
+}
